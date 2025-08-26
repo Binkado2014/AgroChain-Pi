@@ -1,32 +1,44 @@
-# AgroChain-Pi
-Agrochain-Pi is a decentralized agro-platform powered by Pi Network, linking farmers &amp; AgroVet services with Pi payments. It offers transparent trading, traceable supply chains, tokenized assets, KYC tools &amp; micro-financing to empower farmers and agribusiness in Pi’s ecosystem.
 # AgroChain-Pi – Empowering Agriculture with Pi Network
 
+**A decentralized blockchain-based agro-ecosystem powered by Pi Network. Merges Agrochain-HTS (supply chain) and Agrovet (livestock services) into a unified platform.**
+
+---
+
 ## Overview
-AgroChain-Pi is a decentralized blockchain-based agro ecosystem powered by the Pi Network. It unites farmers, agribusinesses & communities by merging Agrochain-Pi (smart supply chains) and Agrovet (veterinary & livestock services) into a Pi-powered platform.
+Pi-AgroChain connects farmers, agribusinesses & communities to the Pi ecosystem, enabling transparent trade, Pi payments, and decentralized supply-chain operations with livestock and vet services.
 
 ## Vision
-Empower farmers and stakeholders by:
-- Enabling Pi payments for goods & services
-- Building transparent blockchain supply chains
-- Offering digital vet care & livestock tracking
-- Creating NFT-based ownership for farm assets
+- Enable payments in Pi for agricultural goods.
+- Ensure traceability via blockchain supply chains.
+- Offer digital vet care & livestock tracking.
+- Introduce NFT ownership of farm assets.
 
 ## Key Features
-1. **Pi-Powered Marketplace** – List & pay with Pi; trace product origins.
-2. **Agrovet Integration** – Vet services, livestock tracking, micro-loans.
-3. **Smart Supply Chain** – Blockchain verification, IoT farm monitoring (future).
-4. **Community Rewards** – Stake Pi to support farmers & earn rewards.
+1. **Pi-Powered Marketplace** – Trade with Pi; track origin.
+2. **Agrovet Integration** – Vet booking & micro-loan services.
+3. **Smart Supply Chain** – Blockchain verification + smart contracts.
+4. **Community Rewards** – Stake & earn Pi to support farmers.
 
 ## Roadmap
-- **Q4 2025**: Launch MVP with Pi payments & vet services.
-- **Q1 2026**: Blockchain tracking for produce.
-- **Q3 2026**: Pi-powered agro NFT marketplace.
+- **Q4 2025:** MVP — Pi payments & vet services.
+- **Q1 2026:** Blockchain tracking for produce.
+- **Q3 2026:** Pi-powered agro-NFT marketplace.
 
 ## Why Pi Network?
-- Global Pi community matches our farmer adoption vision.
-- Mobile mining eases rural adoption.
-- P2P trade without bank limitations.
+- Global farmer onboarding potential.
+- Seamless mobile mining & low-cost transactions.
+- Direct peer-to-peer trade without banks.
 
-## Call to Action
-Join us in building a Pi-powered agro-economic ecosystem! 🚀
+## Getting Started
+## Contributing
+We welcome contributors!  
+- Fork the repo, open issues, submit PRs.  
+- See ` CONTRIBUTING.md ` for details.
+
+## License
+This project is licensed under the MIT License.  
+See ` LICENSE ` for details.
+
+---
+
+**Join us in building a Pi-powered agro-economy!**
